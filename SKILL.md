@@ -1,13 +1,9 @@
 ---
 name: 贷款真相计算器
 description: "扒开贷款包装术语，计算真实年化利率(APR)。支持等额本息、等额本金、先息后本、信用卡分期、网贷日息、砍头息、气球贷等所有常见贷款产品，用IRR精确计算还原真实成本，多方案一键对比。"
-version: 1.0.0
-author: Hermes Agent
+version: 1.2.1
+author: riyuexingchen
 license: MIT
-metadata:
-  hermes:
-    tags: [finance, loan, apr, irr, calculator, consumer-protection, 贷款, 利率, 真相]
-    related_skills: []
 ---
 
 # 贷款真相计算器
